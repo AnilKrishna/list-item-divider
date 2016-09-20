@@ -4,6 +4,7 @@
 .idea/libraries
 .idea/.name
 .idea/misc.xml
+.idea/vcs.xml
 .idea/modules.xml
 .DS_Store
 /build
