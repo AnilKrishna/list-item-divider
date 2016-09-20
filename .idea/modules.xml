@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Divider.iml" filepath="$PROJECT_DIR$/Divider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/divider/app.iml" filepath="$PROJECT_DIR$/divider/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divider/divider.iml" filepath="$PROJECT_DIR$/divider/divider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-item-divider.iml" filepath="$PROJECT_DIR$/list-item-divider.iml" />
     </modules>
   </component>
 </project>
